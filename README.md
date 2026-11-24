@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+Egregor Indoctrination tells an intriguing story in an episodic and laconic manner, combining elements of Metroidvania and Visual Novel genres.
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,11 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **Processor** | Min: AMD A4-6320 / Intel Core i5-4460 / Rec: AMD FX-6300 / Intel Core i5-4590 | Intel Core i5 / Apple M1 |
+| **Memory** | Min: 4 GB RAM / Rec: 8 GB RAM | 4 GB RAM |
+| **Graphics** | Min: AMD Radeon R9 280X / GeForce GTX 760 / Rec: AMD Radeon R9 290 / GeForce GTX 1050 | Metal-capable GPU |
+| **Storage** | 1 GB available space | 1 GB available space |
+| **OS *** | Windows 7 | Windows 7 |
 
 ---
 
